@@ -1,0 +1,38 @@
+.product {
+    width: 277px;
+    height: 277px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px;
+    border: 1px solid gainsboro;
+    border-radius: 15px;
+}
+
+.product-img {
+    height: 150px;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+.product-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #000;
+    width: 100%;
+}
+
+.product-price {
+    color: #6C6C6C;
+    font-size: 20px;
+    font-weight: 700;
+    width: 100%;
+}
+
+.product-quantity {
+    width: 100%;
+    padding-top: 17px;
+}

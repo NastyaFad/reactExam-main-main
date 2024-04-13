@@ -1,0 +1,9 @@
+.main-btn{
+    background: #232323;
+    padding: 10px 25px;
+    color: #fff;
+}
+.main-btn:hover{
+    background: #151515;
+    cursor: pointer;
+}
